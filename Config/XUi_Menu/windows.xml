@@ -1,0 +1,3 @@
+﻿<config>
+	<set xpath="//gameoption[@name='DayNightLength']/@values">10, 20, 30, 40, 45, 50, 60, 90, 120</set>
+</config>

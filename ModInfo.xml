@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xml>
+	<Name value="ISI-MinutesPerDay" />
+	<DisplayName value="ISI MinutesPerDay" />
+	<Version value="1.3.0.0" />
+	<Description value="Adjust the number of minutes per day" />
+	<Author value="IronSharkInc" />
+	<Website value="https://github.com/IronSharkInc" />
+</xml>
