@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xml>
 	<Name value="ISI-MinutesPerDay" />
-	<DisplayName value="ISI MinutesPerDay" />
-	<Version value="1.3.0.0" />
-	<Description value="Adjust the number of minutes per day" />
+	<DisplayName value="ISI Minutes Per Day" />
+	<Version value="2.2.0.0" />
+	<Description value="Adds an option for 45 minute days. You can set whatever options you want in /ISI_MinutesPerDay/Config/XUi_Menu/windows.xml" />
 	<Author value="IronSharkInc" />
 	<Website value="https://github.com/IronSharkInc" />
 </xml>
