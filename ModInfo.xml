@@ -2,8 +2,8 @@
 <xml>
 	<Name value="ISI-MinutesPerDay" />
 	<DisplayName value="ISI Minutes Per Day" />
-	<Version value="2.2.0.1" />
-	<Description value="Adds an option for 45 minute days. You can set whatever options you want in /ISI_MinutesPerDay/Config/XUi_Menu/windows.xml" />
+	<Version value="2.2.0.2" />
+	<Description value="Building off RyanFaeScotland's discovery of the rounding bug these 18 new minutes per day options are less than a minute off." />
 	<Author value="IronSharkInc" />
 	<Website value="https://github.com/IronSharkInc" />
 </xml>
