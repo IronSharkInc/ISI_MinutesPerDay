@@ -7,4 +7,20 @@ You can further tweak the options by setting the DayNightLength values in `/ISI_
 
 ## Screenshots
 
-![24 Hour Cycle](images/24-hour-cycle.png)
+![24 Hour Cycle](images/001-minute.png)
+![24 Hour Cycle](images/005-minutes.png)
+![24 Hour Cycle](images/010-minutes.png)
+![24 Hour Cycle](images/015-minutes.png)
+![24 Hour Cycle](images/020-minutes.png)
+![24 Hour Cycle](images/025-minutes.png)
+![24 Hour Cycle](images/030-minutes.png)
+![24 Hour Cycle](images/036-minutes.png)
+![24 Hour Cycle](images/040-minutes.png)
+![24 Hour Cycle](images/050-minutes.png)
+![24 Hour Cycle](images/057-minutes.png)
+![24 Hour Cycle](images/066-minutes.png)
+![24 Hour Cycle](images/080-minutes.png)
+![24 Hour Cycle](images/100-minutes.png)
+![24 Hour Cycle](images/133-minutes.png)
+![24 Hour Cycle](images/200-minutes.png)
+![24 Hour Cycle](images/400-minutes.png)
