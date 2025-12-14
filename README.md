@@ -16,3 +16,8 @@ You can further tweak the options by changing the `DayNightLength` values in `/I
 
 ![24 Hour Cycle](images/zoom.png)
 ![24 Hour Cycle](images/24-hour-cycle-overview.png)
+
+## Testing
+
+1. New Game → "24 Hour Cycle": Verify new options appear
+2. Continue Game → "24 Hour Cycle": Verify new options appear

@@ -2,7 +2,7 @@
 <xml>
 	<Name value="ISI-MinutesPerDay" />
 	<DisplayName value="ISI Minutes Per Day" />
-	<Version value="2.2.0.3" />
+	<Version value="2.5.0.4" />
 	<Description value="Adds more accurate options for the number of minutes per '24 Hour Cycle'." />
 	<Author value="IronSharkInc" />
 	<Website value="https://github.com/IronSharkInc" />
